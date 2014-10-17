@@ -1,9 +1,7 @@
-Codebook for GettingAndCleaningData Project
-===========================================
+GettingAndCleaningData codebook
+===============================
 
 This codebook is intended to describe the dataset required by the project from Coursera's "Getting and Cleaning Data" course.  Please refer to the accompanying **README.md** file to learn how to build the file described within this codebook.
-
-
 
 Structure of Tidy Dataset
 -------------------------
@@ -20,7 +18,7 @@ average         | numeric           | This value is an aggregated average of all
 
 Variables
 ---------
-Again, I do not claim to know what these brief variable descriptions are, nor do I want to do the research.  After all, this is just a class project designed to teach me how to clean up a messy data set.  I'm sure there will be opportunities in the future to fully research the meaning of all variables within an analysis when I am the playing the role of data scientist for data I actually care about.  :)  There are 79 distinct variable names I could find in the raw dataset that contain either the word "mean" or "std".  They are as follows:
+Again, I do not claim to know what these brief variable descriptions are, nor do I want to do the research.  After all, this is just a class project designed to teach me how to clean up a messy data set.  I'm sure there will be opportunities in the future to fully research the meaning of all variables within an analysis when I am the playing the role of data scientist for data I actually care about.  :)  There are 78 distinct variable names I could find in the raw dataset that contain either the word "mean" or "std".  They are as follows:
 
 * fBodyAcc.mean.X
 * fBodyAcc.mean.Y
