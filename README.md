@@ -33,8 +33,8 @@ Files
 
 File              | Comment
 ----------------- | -------------------------------------------------------------------------
-README.md         | This file
-codebook.md       | A markdown document that explains the process to create the tidy data set.
+README.md         | This file.  It explains the process of building the tidy data set.
+codebook.md       | A markdown document that explains the tidy data set.
 run_analysis.R    | The R code script that does the actual data tidying.  See codebook.md to learn more.
 my_tidy_output.txt| The final output as described in step 5 within the project instructions.
 
